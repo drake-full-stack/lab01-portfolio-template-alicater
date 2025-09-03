@@ -15,8 +15,8 @@
 
 ## 🔗 Links
 
-- **Repository URL: ** 
-- **Live Site URL:** 
+- **Repository URL: https://github.com/drake-full-stack/lab01-portfolio-template-alicater** 
+- **Live Site URL: NA -- created repo before permissions were given** 
 
 ## 📝 Reflection
 
@@ -25,7 +25,11 @@ After completing this lab, write a few sentences about:
 - What did you learn about semantic HTML?
 - How do you plan to expand this portfolio?
 
-[Write your reflection here]
+I found the most challenging part to be figuring out what to write. I realized a lot of my hobbies/interests are older and I don't have much time 
+to do hobby stuff anymore. I am already fairly familiar with semantic HTML but this project just reminded me how tedious it can be at times writing 
+all the tags. In class when we learned about Emmet Shortcuts, I was able to implement a lot of them immediately when building out the portfolio site.
+I could expand the portfolio by adding existing projects that I have completed to the Projects page. I could add styling with css to make it more visually
+and add even more specific pages. Potentially in the Hobbies page there could be another page linked that goes more in-depth on a specific interest.
 
 ---
 
