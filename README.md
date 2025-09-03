@@ -10,8 +10,8 @@
 - [X] Create `hobbies.html` with semantic HTML elements  
 - [X] Create `projects.html` placeholder page
 - [X] Add navigation between all pages
-- [ ] Deploy to GitHub Pages
-- [ ] Test all links on the live site
+~~- [ ] Deploy to GitHub Pages~~
+~~- [ ] Test all links on the live site~~
 
 ## 🔗 Links
 
